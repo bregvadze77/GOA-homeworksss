@@ -3,7 +3,7 @@ from turtle import*
 
 #we want to paint a house
 
-#step1:draw a square
+#step1:draw a square   
 
 width(6)
 color("blue")
